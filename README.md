@@ -21,6 +21,9 @@
 - IDE : Visual Studio Code (VSCode)
 
 **Backend**
+- Framework: Node.js
+- language : Javascript
+- DB : MongoDB 
 - IDE : Visual Studio
 <br><br>
   
