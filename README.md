@@ -24,7 +24,7 @@
 - Framework: Node.js
 - language : Javascript
 - DB : MongoDB 
-- IDE : Visual Studio
+- IDE : Visual Studio Code (VSCode)
 <br><br>
   
 ## ✨ 프로젝트 기능
